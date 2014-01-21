@@ -17,7 +17,7 @@
 
 <body>
 <div id="HEADER">
-	<h2>電腦科學學習網</h2>
+	<h2>數學科學學習網</h2>
 </div>
 <div id="MAIN_NAV">
 	<ul>
